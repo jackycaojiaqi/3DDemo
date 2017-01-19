@@ -6,15 +6,584 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="down" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f036641-7548-41eb-9c57-0e8623e10dd3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat$AccessibilityServiceInfoIcsImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat$AccessibilityServiceInfoJellyBeanMr2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat$AccessibilityServiceInfoStubImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat$AccessibilityServiceInfoVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompatJellyBeanMr2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActionBarDrawerToggle$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActionBarDrawerToggle$ActionBarDrawerToggleImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActionBarDrawerToggle$ActionBarDrawerToggleImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActionBarDrawerToggle$ActionBarDrawerToggleImplHC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActionBarDrawerToggle$ActionBarDrawerToggleImplJellybeanMR2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActionBarDrawerToggle$Delegate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActionBarDrawerToggle$DelegateProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActionBarDrawerToggle$SlideDrawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActionBarDrawerToggle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActionBarDrawerToggleHoneycomb$SetIndicatorInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActionBarDrawerToggleHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActionBarDrawerToggleJellybeanMR2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActivityCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActivityCompatHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActivityCompatJB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActivityOptionsCompat$ActivityOptionsImplJB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActivityOptionsCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ActivityOptionsCompatJB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/BackStackRecord$Op.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/BackStackRecord.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/BackStackState$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/BackStackState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/DialogFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/Fragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/Fragment$InstantiationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/Fragment$SavedState$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/Fragment$SavedState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/Fragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentActivity$FragmentTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentActivity$NonConfigurationInstances.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentContainer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentManager$BackStackEntry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentManager$OnBackStackChangedListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentManagerImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentManagerImpl$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentManagerImpl$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentManagerImpl$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentManagerImpl$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentManagerImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentManagerState$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentManagerState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentPagerAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentState$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentStatePagerAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentTabHost$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentTabHost$DummyTabFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentTabHost$SavedState$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentTabHost$SavedState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentTabHost$TabInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentTabHost.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/FragmentTransaction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ListFragment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ListFragment$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ListFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/LoaderManager$LoaderCallbacks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/LoaderManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/LoaderManagerImpl$LoaderInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/LoaderManagerImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NavUtils$NavUtilsImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NavUtils$NavUtilsImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NavUtils$NavUtilsImplJB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NavUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NavUtilsJB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NoSaveStateFrameLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat$Action.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat$BigPictureStyle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat$BigTextStyle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat$InboxStyle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat$NotificationCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat$NotificationCompatImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat$NotificationCompatImplGingerbread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat$NotificationCompatImplHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat$NotificationCompatImplIceCreamSandwich.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat$NotificationCompatImplJellybean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat$Style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompatGingerbread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompatHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompatIceCreamSandwich.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/NotificationCompatJellybean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ServiceCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ShareCompat$IntentBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ShareCompat$IntentReader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ShareCompat$ShareCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ShareCompat$ShareCompatImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ShareCompat$ShareCompatImplICS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ShareCompat$ShareCompatImplJB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ShareCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ShareCompatICS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/ShareCompatJB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/SuperNotCalledException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/TaskStackBuilder$SupportParentable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/TaskStackBuilder$TaskStackBuilderImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/TaskStackBuilder$TaskStackBuilderImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/TaskStackBuilder$TaskStackBuilderImplHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/TaskStackBuilder$TaskStackBuilderImplJellybean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/TaskStackBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/TaskStackBuilderHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/app/TaskStackBuilderJellybean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/AsyncTaskLoader$LoadTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/AsyncTaskLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ContextCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ContextCompatFroyo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ContextCompatHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ContextCompatJellybean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ContextCompatKitKat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/CursorLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/FileProvider$PathStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/FileProvider$SimplePathStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/FileProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/IntentCompat$IntentCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/IntentCompat$IntentCompatImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/IntentCompat$IntentCompatImplHC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/IntentCompat$IntentCompatImplIcsMr1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/IntentCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/IntentCompatHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/IntentCompatIcsMr1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/Loader$ForceLoadContentObserver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/Loader$OnLoadCompleteListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/Loader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/LocalBroadcastManager$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/LocalBroadcastManager$BroadcastRecord.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/LocalBroadcastManager$ReceiverRecord.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/LocalBroadcastManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ModernAsyncTask$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ModernAsyncTask$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ModernAsyncTask$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ModernAsyncTask$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ModernAsyncTask$AsyncTaskResult.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ModernAsyncTask$InternalHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ModernAsyncTask$Status.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ModernAsyncTask$WorkerRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/ModernAsyncTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/WakefulBroadcastReceiver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/content/pm/ActivityInfoCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/database/DatabaseUtilsCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/graphics/drawable/DrawableCompat$BaseDrawableImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/graphics/drawable/DrawableCompat$DrawableImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/graphics/drawable/DrawableCompat$HoneycombDrawableImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/graphics/drawable/DrawableCompat$KitKatDrawableImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/graphics/drawable/DrawableCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/graphics/drawable/DrawableCompatHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/graphics/drawable/DrawableCompatKitKat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/hardware/display/DisplayManagerCompat$JellybeanMr1Impl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/hardware/display/DisplayManagerCompat$LegacyImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/hardware/display/DisplayManagerCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/hardware/display/DisplayManagerJellybeanMr1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/internal/view/SupportMenu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/internal/view/SupportMenuItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/internal/view/SupportSubMenu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/media/TransportController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/media/TransportMediator$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/media/TransportMediator$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/media/TransportMediator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/media/TransportMediatorCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/media/TransportMediatorJellybeanMR2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/media/TransportMediatorJellybeanMR2$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/media/TransportMediatorJellybeanMR2$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/media/TransportMediatorJellybeanMR2$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/media/TransportMediatorJellybeanMR2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/media/TransportPerformer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/media/TransportStateListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/ConnectivityManagerCompat$BaseConnectivityManagerCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/ConnectivityManagerCompat$ConnectivityManagerCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/ConnectivityManagerCompat$GingerbreadConnectivityManagerCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/ConnectivityManagerCompat$HoneycombMR2ConnectivityManagerCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/ConnectivityManagerCompat$JellyBeanConnectivityManagerCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/ConnectivityManagerCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/ConnectivityManagerCompatGingerbread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/ConnectivityManagerCompatHoneycombMR2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/ConnectivityManagerCompatJellyBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/TrafficStatsCompat$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/TrafficStatsCompat$BaseTrafficStatsCompatImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/TrafficStatsCompat$BaseTrafficStatsCompatImpl$SocketTags.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/TrafficStatsCompat$BaseTrafficStatsCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/TrafficStatsCompat$IcsTrafficStatsCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/TrafficStatsCompat$TrafficStatsCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/TrafficStatsCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/net/TrafficStatsCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/os/EnvironmentCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/os/EnvironmentCompatKitKat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/os/ParcelableCompat$CompatCreator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/os/ParcelableCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/os/ParcelableCompatCreatorCallbacks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/os/ParcelableCompatCreatorHoneycombMR2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/os/ParcelableCompatCreatorHoneycombMR2Stub.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/print/PrintHelper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/print/PrintHelper$PrintHelperKitkatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/print/PrintHelper$PrintHelperStubImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/print/PrintHelper$PrintHelperVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/print/PrintHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/print/PrintHelperKitkat$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/print/PrintHelperKitkat$2$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/print/PrintHelperKitkat$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/print/PrintHelperKitkat$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/print/PrintHelperKitkat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/BidiFormatter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/BidiFormatter$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/BidiFormatter$DirectionalityEstimator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/BidiFormatter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/ICUCompat$ICUCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/ICUCompat$ICUCompatImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/ICUCompat$ICUCompatImplIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/ICUCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/ICUCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/TextDirectionHeuristicCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/TextDirectionHeuristicsCompat$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/TextDirectionHeuristicsCompat$AnyStrong.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/TextDirectionHeuristicsCompat$FirstStrong.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/TextDirectionHeuristicsCompat$TextDirectionAlgorithm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/TextDirectionHeuristicsCompat$TextDirectionHeuristicImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/TextDirectionHeuristicsCompat$TextDirectionHeuristicInternal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/TextDirectionHeuristicsCompat$TextDirectionHeuristicLocale.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/TextDirectionHeuristicsCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/text/TextUtilsCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/ArrayMap$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/ArrayMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/AtomicFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/ContainerHelpers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/DebugUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/LogWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/LongSparseArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/LruCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/MapCollections$ArrayIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/MapCollections$EntrySet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/MapCollections$KeySet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/MapCollections$MapIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/MapCollections$ValuesCollection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/MapCollections.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/SimpleArrayMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/SparseArrayCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/util/TimeUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateIcsImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateIcsImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateJellyBeanImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateJellyBeanImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateStubImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompatIcs$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompatIcs$AccessibilityDelegateBridge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompatJellyBean$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompatJellyBean$AccessibilityDelegateBridgeJellyBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/AccessibilityDelegateCompatJellyBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ActionProvider$SubUiVisibilityListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ActionProvider$VisibilityListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ActionProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/GestureDetectorCompat$GestureDetectorCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/GestureDetectorCompat$GestureDetectorCompatImplBase$GestureHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/GestureDetectorCompat$GestureDetectorCompatImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/GestureDetectorCompat$GestureDetectorCompatImplJellybeanMr2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/GestureDetectorCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/GravityCompat$GravityCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/GravityCompat$GravityCompatImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/GravityCompat$GravityCompatImplJellybeanMr1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/GravityCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/GravityCompatJellybeanMr1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/KeyEventCompat$BaseKeyEventVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/KeyEventCompat$EclairKeyEventVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/KeyEventCompat$HoneycombKeyEventVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/KeyEventCompat$KeyEventVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/KeyEventCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/KeyEventCompatEclair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/KeyEventCompatHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MarginLayoutParamsCompat$MarginLayoutParamsCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MarginLayoutParamsCompat$MarginLayoutParamsCompatImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MarginLayoutParamsCompat$MarginLayoutParamsCompatImplJbMr1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MarginLayoutParamsCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MarginLayoutParamsCompatJellybeanMr1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MenuCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MenuItemCompat$BaseMenuVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MenuItemCompat$HoneycombMenuVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MenuItemCompat$IcsMenuVersionImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MenuItemCompat$IcsMenuVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MenuItemCompat$MenuVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MenuItemCompat$OnActionExpandListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MenuItemCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MenuItemCompatHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MenuItemCompatIcs$OnActionExpandListenerWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MenuItemCompatIcs$SupportActionExpandProxy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MenuItemCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MotionEventCompat$BaseMotionEventVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MotionEventCompat$EclairMotionEventVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MotionEventCompat$MotionEventVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MotionEventCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/MotionEventCompatEclair.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/PagerAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/PagerTabStrip$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/PagerTabStrip$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/PagerTabStrip.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/PagerTitleStrip$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/PagerTitleStrip$PageListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/PagerTitleStrip$PagerTitleStripImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/PagerTitleStrip$PagerTitleStripImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/PagerTitleStrip$PagerTitleStripImplIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/PagerTitleStrip.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/PagerTitleStripIcs$SingleLineAllCapsTransform.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/PagerTitleStripIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ScaleGestureDetectorCompat$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ScaleGestureDetectorCompat$BaseScaleGestureDetectorImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ScaleGestureDetectorCompat$ScaleGestureDetectorCompatKitKatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ScaleGestureDetectorCompat$ScaleGestureDetectorImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ScaleGestureDetectorCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ScaleGestureDetectorCompatKitKat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/VelocityTrackerCompat$BaseVelocityTrackerVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/VelocityTrackerCompat$HoneycombVelocityTrackerVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/VelocityTrackerCompat$VelocityTrackerVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/VelocityTrackerCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/VelocityTrackerCompatHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompat$BaseViewCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompat$EclairMr1ViewCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompat$GBViewCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompat$HCViewCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompat$ICSViewCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompat$JBViewCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompat$JbMr1ViewCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompat$KitKatViewCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompat$ViewCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompatEclairMr1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompatGingerbread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompatHC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompatICS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompatJB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompatJellybeanMr1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewCompatKitKat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewConfigurationCompat$BaseViewConfigurationVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewConfigurationCompat$FroyoViewConfigurationVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewConfigurationCompat$ViewConfigurationVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewConfigurationCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewConfigurationCompatFroyo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewGroupCompat$ViewGroupCompatHCImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewGroupCompat$ViewGroupCompatIcsImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewGroupCompat$ViewGroupCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewGroupCompat$ViewGroupCompatJellybeanMR2Impl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewGroupCompat$ViewGroupCompatStubImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewGroupCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewGroupCompatHC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewGroupCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewGroupCompatJellybeanMR2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$Decor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$ItemInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$LayoutParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$MyAccessibilityDelegate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$OnAdapterChangeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$OnPageChangeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$PageTransformer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$PagerObserver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$SavedState$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$SavedState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$SimpleOnPageChangeListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager$ViewPositionComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewPager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewParentCompat$ViewParentCompatICSImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewParentCompat$ViewParentCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewParentCompat$ViewParentCompatStubImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewParentCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/ViewParentCompatICS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/WindowCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityEventCompat$AccessibilityEventIcsImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityEventCompat$AccessibilityEventStubImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityEventCompat$AccessibilityEventVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityEventCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityEventCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityManagerCompat$AccessibilityManagerIcsImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityManagerCompat$AccessibilityManagerIcsImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityManagerCompat$AccessibilityManagerStubImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityManagerCompat$AccessibilityManagerVersionImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityManagerCompat$AccessibilityStateChangeListenerCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityManagerCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityManagerCompatIcs$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityManagerCompatIcs$AccessibilityStateChangeListenerBridge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityManagerCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat$AccessibilityNodeInfoIcsImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat$AccessibilityNodeInfoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat$AccessibilityNodeInfoJellybeanImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat$AccessibilityNodeInfoJellybeanMr2Impl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat$AccessibilityNodeInfoKitKatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat$AccessibilityNodeInfoStubImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeInfoCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeInfoCompatJellyBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeInfoCompatJellybeanMr2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeInfoCompatKitKat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompat$AccessibilityNodeProviderImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompat$AccessibilityNodeProviderJellyBeanImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompat$AccessibilityNodeProviderJellyBeanImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompat$AccessibilityNodeProviderKitKatImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompat$AccessibilityNodeProviderKitKatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompat$AccessibilityNodeProviderStubImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompatJellyBean$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompatJellyBean$AccessibilityNodeInfoBridge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompatJellyBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompatKitKat$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompatKitKat$AccessibilityNodeInfoBridge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityNodeProviderCompatKitKat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityRecordCompat$AccessibilityRecordIcsImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityRecordCompat$AccessibilityRecordIcsMr1Impl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityRecordCompat$AccessibilityRecordImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityRecordCompat$AccessibilityRecordJellyBeanImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityRecordCompat$AccessibilityRecordStubImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityRecordCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityRecordCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityRecordCompatIcsMr1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/view/accessibility/AccessibilityRecordCompatJellyBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/AutoScrollHelper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/AutoScrollHelper$ClampedScroller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/AutoScrollHelper$ScrollAnimationRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/AutoScrollHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/BakedBezierInterpolator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ContentLoadingProgressBar$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ContentLoadingProgressBar$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ContentLoadingProgressBar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/CursorAdapter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/CursorAdapter$ChangeObserver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/CursorAdapter$MyDataSetObserver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/CursorAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/CursorFilter$CursorFilterClient.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/CursorFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/DrawerLayout$AccessibilityDelegate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/DrawerLayout$DrawerListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/DrawerLayout$LayoutParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/DrawerLayout$SavedState$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/DrawerLayout$SavedState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/DrawerLayout$SimpleDrawerListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/DrawerLayout$ViewDragCallback$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/DrawerLayout$ViewDragCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/DrawerLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/EdgeEffectCompat$BaseEdgeEffectImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/EdgeEffectCompat$EdgeEffectIcsImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/EdgeEffectCompat$EdgeEffectImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/EdgeEffectCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/EdgeEffectCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ExploreByTouchHelper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ExploreByTouchHelper$ExploreByTouchNodeProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ExploreByTouchHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ListPopupWindowCompat$BaseListPopupWindowImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ListPopupWindowCompat$KitKatListPopupWindowImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ListPopupWindowCompat$ListPopupWindowImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ListPopupWindowCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ListPopupWindowCompatKitKat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ListViewAutoScrollHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/PopupMenuCompat$BasePopupMenuImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/PopupMenuCompat$KitKatPopupMenuImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/PopupMenuCompat$PopupMenuImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/PopupMenuCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/PopupMenuCompatKitKat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ResourceCursorAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ScrollerCompat$ScrollerCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ScrollerCompat$ScrollerCompatImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ScrollerCompat$ScrollerCompatImplGingerbread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ScrollerCompat$ScrollerCompatImplIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ScrollerCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ScrollerCompatGingerbread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ScrollerCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompat$OnCloseListenerCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompat$OnQueryTextListenerCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompat$SearchViewCompatHoneycombImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompat$SearchViewCompatHoneycombImpl$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompat$SearchViewCompatHoneycombImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompat$SearchViewCompatIcsImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompat$SearchViewCompatImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompat$SearchViewCompatStubImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompatHoneycomb$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompatHoneycomb$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompatHoneycomb$OnCloseListenerCompatBridge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompatHoneycomb$OnQueryTextListenerCompatBridge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompatHoneycomb.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompatIcs$MySearchView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SearchViewCompatIcs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SimpleCursorAdapter$CursorToStringConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SimpleCursorAdapter$ViewBinder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SimpleCursorAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$AccessibilityDelegate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$DisableLayerRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$DragHelperCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$LayoutParams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$PanelSlideListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$SavedState$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$SavedState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$SimplePanelSlideListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$SlidingPanelLayoutImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$SlidingPanelLayoutImplBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$SlidingPanelLayoutImplJB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout$SlidingPanelLayoutImplJBMR1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SlidingPaneLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SwipeProgressBar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SwipeRefreshLayout$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SwipeRefreshLayout$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SwipeRefreshLayout$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SwipeRefreshLayout$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SwipeRefreshLayout$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SwipeRefreshLayout$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SwipeRefreshLayout$BaseAnimationListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SwipeRefreshLayout$OnRefreshListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/SwipeRefreshLayout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ViewDragHelper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ViewDragHelper$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ViewDragHelper$Callback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-19.1.0.jar_nwfxxipiy4027p6ok2xap8hw/android/support/v4/widget/ViewDragHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p45.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p9.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
@@ -22,20 +591,77 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/BuildConfig.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/MainActivity$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$menu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/car3d/R.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/uXgm72Rw3WkdQWvZYPK7LxeZ8fY=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/uXgm72Rw3WkdQWvZYPK7LxeZ8fY=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_6c4051b60142981e7414c8559561719a2832b68f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_6c4051b60142981e7414c8559561719a2832b68f.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/klog_5d94a4a61f3a3ab952482da493f9221ec0aca1d8.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/klog_5d94a4a61f3a3ab952482da493f9221ec0aca1d8.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_4c110de7fa9111f05fc2c20627f38224189f3c1f.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_4c110de7fa9111f05fc2c20627f38224189f3c1f.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_b1d0ee798508e92a0005b9ec6aa8694d44225dd5.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_b1d0ee798508e92a0005b9ec6aa8694d44225dd5.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p1.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p10.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p11.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p12.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p12.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p14.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p14.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p18.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p18.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p19.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p19.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p2.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p20.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p20.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p22.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p22.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p23.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p23.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p24.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p24.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p26.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p26.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p27.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p27.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p28.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p28.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p30.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p30.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p31.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p31.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p32.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p32.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p33.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p33.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p35.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p35.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p36.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p36.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p37.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p37.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p39.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p39.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p4.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p44.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p44.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p46.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p46.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p47.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p47.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p49.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p49.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p51.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p51.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p52.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p52.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p8.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p9.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/p9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Car3D.iml" afterPath="$PROJECT_DIR$/Car3D.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/car3d/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/car3d/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/car3d/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/car3d/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
@@ -73,21 +699,36 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="86" column="35" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="35" />
+            <state relative-caret-position="-921">
+              <caret line="120" column="15" selection-start-line="120" selection-start-column="15" selection-end-line="120" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1654#1793#0" expanded="true" />
+                <element signature="e#1792#1793#0" expanded="true" />
+                <element signature="e#1831#1970#0" expanded="true" />
+                <element signature="e#1969#1970#0" expanded="true" />
+                <element signature="e#2078#3809#0" expanded="true" />
+                <element signature="e#3808#3809#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YWDImage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/YWDImage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1685">
+              <caret line="128" column="16" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
+      <file leaf-file-name="Picasso.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/app/libs/picasso-2.5.2.jar!/com/squareup/picasso/Picasso.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="327">
+              <caret line="440" column="15" selection-start-line="440" selection-start-column="8" selection-end-line="440" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -99,8 +740,31 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="565">
+              <caret line="38" column="76" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/FileUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -1398,7 +2062,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="D:\Car3D" value="4454168596393" />
+        <entry key="D:\Car3D" value="4454246658462" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1695,15 +2359,24 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/car3d/YWDImage.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/car3d/PhotoViewAttacher.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/scrollerproxy/IcsScroller.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/gestures/EclairGestureDetector.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/PhotoView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/PhotoViewAttacher.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/DefaultOnDoubleTapListener.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/car3d/FileUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/car3d/StringUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/car3d/YWDImage.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/car3d/MainActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1980" />
-    <option name="y" value="357" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -1814,11 +2487,127 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car3D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car3D" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="car3d" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-xxhdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car3D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car3D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-xhdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car3D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car3D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-mdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car3D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Car3D" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-hdpi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1848,14 +2637,19 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="device.picker.selection" value="3DN4C16411026591" />
+    <property name="device.picker.selection" value="79AEALH2Y529" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="2.2.0" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.car3d" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Car3D\app\src\main\res\values" />
+      <recent name="D:\Car3D\app\src\main\java\com\example\car3d" />
+      <recent name="D:\Car3D\app\src\main\res\drawable-xxhdpi" />
       <recent name="D:\Car3D\app\libs" />
     </key>
   </component>
@@ -2182,16 +2976,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1980" y="357" width="1936" height="1096" extended-state="0" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276414" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29562435" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14834578" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5442903" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -2199,7 +2993,8 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22334754" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22334754" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3127001" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -2216,7 +3011,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31343284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2243,28 +3037,165 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/YWDImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/p1.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/PhotoViewAttacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/IPhotoView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/PhotoView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="201" column="49" selection-start-line="201" selection-start-column="49" selection-end-line="201" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/PhotoView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="222" column="13" selection-start-line="222" selection-start-column="13" selection-end-line="222" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/IPhotoView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/DefaultOnDoubleTapListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/Compat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/scrollerproxy/ScrollerProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/scrollerproxy/PreGingerScroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/scrollerproxy/IcsScroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/scrollerproxy/GingerScroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/gestures/VersionedGestureDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/gestures/OnGestureListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/gestures/GestureDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/gestures/FroyoGestureDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/gestures/EclairGestureDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/gestures/CupcakeGestureDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/photoview/PhotoViewAttacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1359">
+          <caret line="1087" column="56" selection-start-line="1087" selection-start-column="56" selection-end-line="1087" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
@@ -2272,17 +3203,92 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="380">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/picasso-2.5.2.jar!/com/squareup/picasso/RequestCreator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="274" column="18" selection-start-line="274" selection-start-column="18" selection-end-line="274" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/StringUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0-sources.jar!/android/support/v4/app/ActivityCompat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/sources/android-23/android/net/Uri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="258" column="23" selection-start-line="258" selection-start-column="16" selection-end-line="258" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="38" column="76" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/picasso-2.5.2.jar!/com/squareup/picasso/Picasso.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="440" column="15" selection-start-line="440" selection-start-column="8" selection-end-line="440" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/YWDImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1685">
+          <caret line="128" column="16" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/car3d/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="86" column="35" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="35" />
-          <folding />
+        <state relative-caret-position="-921">
+          <caret line="120" column="15" selection-start-line="120" selection-start-column="15" selection-end-line="120" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1654#1793#0" expanded="true" />
+            <element signature="e#1792#1793#0" expanded="true" />
+            <element signature="e#1831#1970#0" expanded="true" />
+            <element signature="e#1969#1970#0" expanded="true" />
+            <element signature="e#2078#3809#0" expanded="true" />
+            <element signature="e#3808#3809#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

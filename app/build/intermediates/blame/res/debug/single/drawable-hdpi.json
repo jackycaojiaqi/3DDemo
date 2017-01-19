@@ -124,12 +124,12 @@
         "source": "D:\\Car3D\\app\\src\\main\\res\\drawable-hdpi\\p24.png"
     },
     {
-        "merged": "D:\\Car3D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p32.png",
-        "source": "D:\\Car3D\\app\\src\\main\\res\\drawable-hdpi\\p32.png"
-    },
-    {
         "merged": "D:\\Car3D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p28.png",
         "source": "D:\\Car3D\\app\\src\\main\\res\\drawable-hdpi\\p28.png"
+    },
+    {
+        "merged": "D:\\Car3D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p32.png",
+        "source": "D:\\Car3D\\app\\src\\main\\res\\drawable-hdpi\\p32.png"
     },
     {
         "merged": "D:\\Car3D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p7.png",
@@ -144,24 +144,24 @@
         "source": "D:\\Car3D\\app\\src\\main\\res\\drawable-hdpi\\p10.png"
     },
     {
-        "merged": "D:\\Car3D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p30.png",
-        "source": "D:\\Car3D\\app\\src\\main\\res\\drawable-hdpi\\p30.png"
-    },
-    {
         "merged": "D:\\Car3D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
         "source": "D:\\Car3D\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Car3D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p30.png",
+        "source": "D:\\Car3D\\app\\src\\main\\res\\drawable-hdpi\\p30.png"
     },
     {
         "merged": "D:\\Car3D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p44.png",
         "source": "D:\\Car3D\\app\\src\\main\\res\\drawable-hdpi\\p44.png"
     },
     {
-        "merged": "D:\\Car3D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p36.png",
-        "source": "D:\\Car3D\\app\\src\\main\\res\\drawable-hdpi\\p36.png"
-    },
-    {
         "merged": "D:\\Car3D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p41.png",
         "source": "D:\\Car3D\\app\\src\\main\\res\\drawable-hdpi\\p41.png"
+    },
+    {
+        "merged": "D:\\Car3D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p36.png",
+        "source": "D:\\Car3D\\app\\src\\main\\res\\drawable-hdpi\\p36.png"
     },
     {
         "merged": "D:\\Car3D\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\p33.png",

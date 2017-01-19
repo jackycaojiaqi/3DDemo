@@ -6,10 +6,14 @@ import android.os.Bundle;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnTouchListener;
+import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.Toast;
 
+import com.example.car3d.photoview.PhotoViewAttacher;
 import com.socks.library.KLog;
-import com.squareup.picasso.Picasso;
+
+import java.io.IOException;
 
 /**
  * @author zhaokaiqiang
@@ -38,34 +42,36 @@ public class MainActivity extends Activity {
     private int scrNumY;
     // 图片的总数
     private static int maxNum = 71;
-    private String url = "http://192.168.2.24:8333/pansongbei/1_";
-    private int v, h;
-    // 资源图片集合
-    private int[] srcs = new int[]{R.drawable.p1, R.drawable.p2,
-            R.drawable.p3, R.drawable.p4, R.drawable.p5, R.drawable.p6,
-            R.drawable.p7, R.drawable.p8, R.drawable.p9, R.drawable.p10,
-            R.drawable.p11, R.drawable.p12, R.drawable.p13, R.drawable.p14,
-            R.drawable.p15, R.drawable.p16, R.drawable.p17, R.drawable.p18,
-            R.drawable.p19, R.drawable.p20, R.drawable.p21, R.drawable.p22,
-            R.drawable.p23, R.drawable.p24, R.drawable.p25, R.drawable.p26,
-            R.drawable.p27, R.drawable.p28, R.drawable.p29, R.drawable.p30,
-            R.drawable.p31, R.drawable.p32, R.drawable.p33, R.drawable.p34,
-            R.drawable.p35, R.drawable.p36, R.drawable.p37, R.drawable.p38,
-            R.drawable.p39, R.drawable.p40, R.drawable.p41, R.drawable.p42,
-            R.drawable.p43, R.drawable.p44, R.drawable.p45, R.drawable.p46,
-            R.drawable.p47, R.drawable.p48, R.drawable.p49, R.drawable.p50,
-            R.drawable.p51, R.drawable.p52};
+    private String url;
+    private int size = 1;
+    private int DIRECTION;
+    private PhotoViewAttacher mAttacher;
+    private Button btn_add, btn_sub;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //
-        imageView = (ImageView) findViewById(R.id.imageView);
-        // 初始化当前显示图片编号
-        scrNumX = 5;
-        scrNumY = 5;
+        url = "http://192.168.2.24:8333/pansongbei/" + size + "_";
 
+        imageView = (ImageView) findViewById(R.id.imageView);
+        btn_add = (Button) findViewById(R.id.btn_add);
+        btn_sub = (Button) findViewById(R.id.btn_sub);
+        btn_sub.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                sub();
+            }
+        });
+        btn_add.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                add();
+            }
+        });
+        // 初始化当前显示图片编号
+        scrNumX = 300;
+        scrNumY = 80;
         imageView.setOnTouchListener(new OnTouchListener() {
 
             @Override
@@ -82,42 +88,41 @@ public class MainActivity extends Activity {
                         currentY = (int) event.getY();
                         offsetX = Math.abs(currentX - startX);
                         offsetY = Math.abs(currentY - startY);
-                        KLog.e("x:" + offsetX);
-                        KLog.e("y:" + offsetY);
+
                         if (offsetX >= offsetY) {
                             // 判断手势滑动方向，并切换图片
-                            if (currentX - startX > 10) {
+                            if (currentX - startX > 15) {
                                 modifySrcR();
-                            } else if (currentX - startX < -10) {
+                            } else if (currentX - startX < -15) {
                                 modifySrcL();
                             }
                             // 重置起始位置
                             startX = (int) event.getX();
+                            startY = (int) event.getY();
                         } else {
                             // 判断手势滑动方向，并切换图片
-                            if (currentY - startY > 10) {
+                            if (currentY - startY > 15) {
                                 modifySrcT();
-                            } else if (currentY - startY < -10) {
+                            } else if (currentY - startY < -15) {
                                 modifySrcB();
                             }
                             // 重置起始位置
-                            startY = (int) event.getX();
+                            startY = (int) event.getY();
+                            startX = (int) event.getX();
                         }
                         break;
-
                 }
-
                 return true;
             }
 
         });
-
     }
 
     // 向右滑动修改资源
     private void modifySrcR() {
         KLog.e("right");
-        if (scrNumX / 5 > maxNum) {
+        DIRECTION = 3;
+        if (scrNumX > 355) {
             scrNumX = 5;
         }
 
@@ -130,11 +135,12 @@ public class MainActivity extends Activity {
     // 向左滑动修改资源
     private void modifySrcL() {
         KLog.e("left");
+        DIRECTION = 1;
         if (scrNumX <= 0) {
             scrNumX = maxNum * 5;
         }
 
-        if (scrNumX <= maxNum) {
+        if (scrNumX <= 355) {
             makeUrlAndLoad();
             scrNumX = scrNumX - 5;
         }
@@ -143,7 +149,8 @@ public class MainActivity extends Activity {
     // 向右滑动修改资源
     private void modifySrcT() {
         KLog.e("top");
-        if (scrNumY / 5 > maxNum) {
+        DIRECTION = 2;
+        if (scrNumY > 355) {
             scrNumY = 5;
         }
 
@@ -156,19 +163,61 @@ public class MainActivity extends Activity {
     // 向左滑动修改资源
     private void modifySrcB() {
         KLog.e("bottom");
+        DIRECTION = 4;
         if (scrNumY <= 0) {
             scrNumY = maxNum * 5;
         }
 
-        if (scrNumY <= maxNum) {
+        if (scrNumY <= 355) {
             makeUrlAndLoad();
             scrNumY = scrNumY - 5;
         }
     }
 
     private void makeUrlAndLoad() {
-        String url_request = url + scrNumY + "_" + scrNumX + ".jpg";
+        final String url_request = url + scrNumY + "_" + scrNumX + ".jpg";
         KLog.e(url_request);
-        Picasso.with(this).load(url_request).into(imageView);
+
+        //同步加载一张图片, 注意只能在子线程中调用并且Bitmap不会被缓存到内存里.
+        new Thread() {
+            @Override
+            public void run() {
+                try {
+                    final Bitmap bitmap = YWDImage.Create(getApplicationContext(), url_request).get();
+
+//                    final Bitmap bitmap = Picasso.with(getApplicationContext()).load(url_request).get();
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            YWDImage.singleton.cancelTag("1");
+                            imageView.setImageBitmap(bitmap);
+                        }
+                    });
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }.start();
+//        Picasso.with(this).load(url_request).into(imageView);
+    }
+
+    private void add() {
+        if (size <= 1) {
+            size++;
+            url = "http://192.168.2.24:8333/pansongbei/" + size + "_";
+            makeUrlAndLoad();
+        } else {
+            Toast.makeText(getApplicationContext(), "已经最大了", Toast.LENGTH_SHORT).show();
+        }
+    }
+
+    private void sub() {
+        if (size >= 1) {
+            size--;
+            url = "http://192.168.2.24:8333/pansongbei/" + size + "_";
+            makeUrlAndLoad();
+        } else {
+            Toast.makeText(getApplicationContext(), "已经最小了", Toast.LENGTH_SHORT).show();
+        }
     }
 }

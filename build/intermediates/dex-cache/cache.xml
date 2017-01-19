@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="D:\Car3D\app\libs\klog.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b0320408c54f5124a881ab10ee27a10d3fb73de8">
-        <dex dex="D:\Car3D\app\build\intermediates\pre-dexed\debug\klog_5d94a4a61f3a3ab952482da493f9221ec0aca1d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\1507\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
         jumboMode="false"
         optimize="true"
@@ -27,6 +18,15 @@
         revision="25.0.2"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
         <dex dex="D:\Car3D\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_4c110de7fa9111f05fc2c20627f38224189f3c1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Car3D\app\libs\klog.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b0320408c54f5124a881ab10ee27a10d3fb73de8">
+        <dex dex="D:\Car3D\app\build\intermediates\pre-dexed\debug\klog_5d94a4a61f3a3ab952482da493f9221ec0aca1d8.jar" />
     </item>
 
 </items>
