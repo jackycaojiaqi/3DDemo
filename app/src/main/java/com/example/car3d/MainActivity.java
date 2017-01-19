@@ -2,13 +2,13 @@ package com.example.car3d;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnTouchListener;
 import android.widget.ImageView;
 
+import com.socks.library.KLog;
 import com.squareup.picasso.Picasso;
 
 /**
@@ -26,18 +26,20 @@ public class MainActivity extends Activity {
     private ImageView imageView;
     // 开始按下位置
     private int startX;
-    // 开始按下位置
     private int startY;
+    private int offsetX;
+    private int offsetY;
     // 当前位置
     private int currentX;
     // 当前位置
     private int currentY;
     // 当前图片的编号
-    private int scrNum;
+    private int scrNumX;
+    private int scrNumY;
     // 图片的总数
-    private static int maxNum = 52;
-    private String url ="http://192.168.2.24:8333/pansongbei/size1" ;
-    private int v,h;
+    private static int maxNum = 71;
+    private String url = "http://192.168.2.24:8333/pansongbei/1_";
+    private int v, h;
     // 资源图片集合
     private int[] srcs = new int[]{R.drawable.p1, R.drawable.p2,
             R.drawable.p3, R.drawable.p4, R.drawable.p5, R.drawable.p6,
@@ -58,12 +60,12 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        //
         imageView = (ImageView) findViewById(R.id.imageView);
         // 初始化当前显示图片编号
-        scrNum = 1;
-        url = "http://192.168.2.24:8333/pansongbei/size1_v100_h100.jpg";
-        Picasso.with(this).load(url).into(imageView);
+        scrNumX = 5;
+        scrNumY = 5;
+
         imageView.setOnTouchListener(new OnTouchListener() {
 
             @Override
@@ -78,15 +80,29 @@ public class MainActivity extends Activity {
                     case MotionEvent.ACTION_MOVE:
                         currentX = (int) event.getX();
                         currentY = (int) event.getY();
-                        // 判断手势滑动方向，并切换图片
-                        if (currentX - startX > 10) {
-                            modifySrcR();
-                        } else if (currentX - startX < -10) {
-                            modifySrcL();
+                        offsetX = Math.abs(currentX - startX);
+                        offsetY = Math.abs(currentY - startY);
+                        KLog.e("x:" + offsetX);
+                        KLog.e("y:" + offsetY);
+                        if (offsetX >= offsetY) {
+                            // 判断手势滑动方向，并切换图片
+                            if (currentX - startX > 10) {
+                                modifySrcR();
+                            } else if (currentX - startX < -10) {
+                                modifySrcL();
+                            }
+                            // 重置起始位置
+                            startX = (int) event.getX();
+                        } else {
+                            // 判断手势滑动方向，并切换图片
+                            if (currentY - startY > 10) {
+                                modifySrcT();
+                            } else if (currentY - startY < -10) {
+                                modifySrcB();
+                            }
+                            // 重置起始位置
+                            startY = (int) event.getX();
                         }
-                        // 重置起始位置
-                        startX = (int) event.getX();
-
                         break;
 
                 }
@@ -100,31 +116,59 @@ public class MainActivity extends Activity {
 
     // 向右滑动修改资源
     private void modifySrcR() {
-
-        if (scrNum > maxNum) {
-            scrNum = 1;
+        KLog.e("right");
+        if (scrNumX / 5 > maxNum) {
+            scrNumX = 5;
         }
 
-        if (scrNum > 0) {
-            bitmap = BitmapFactory.decodeResource(getResources(),
-                    srcs[scrNum - 1]);
-            imageView.setImageBitmap(bitmap);
-            scrNum++;
+        if (scrNumX > 0) {
+            makeUrlAndLoad();
+            scrNumX = scrNumX + 5;
         }
     }
 
     // 向左滑动修改资源
     private void modifySrcL() {
-        if (scrNum <= 0) {
-            scrNum = maxNum;
+        KLog.e("left");
+        if (scrNumX <= 0) {
+            scrNumX = maxNum * 5;
         }
 
-        if (scrNum <= maxNum) {
-            bitmap = BitmapFactory.decodeResource(getResources(),
-                    srcs[scrNum - 1]);
-            imageView.setImageBitmap(bitmap);
-            scrNum--;
+        if (scrNumX <= maxNum) {
+            makeUrlAndLoad();
+            scrNumX = scrNumX - 5;
         }
     }
 
+    // 向右滑动修改资源
+    private void modifySrcT() {
+        KLog.e("top");
+        if (scrNumY / 5 > maxNum) {
+            scrNumY = 5;
+        }
+
+        if (scrNumY > 0) {
+            makeUrlAndLoad();
+            scrNumY = scrNumY + 5;
+        }
+    }
+
+    // 向左滑动修改资源
+    private void modifySrcB() {
+        KLog.e("bottom");
+        if (scrNumY <= 0) {
+            scrNumY = maxNum * 5;
+        }
+
+        if (scrNumY <= maxNum) {
+            makeUrlAndLoad();
+            scrNumY = scrNumY - 5;
+        }
+    }
+
+    private void makeUrlAndLoad() {
+        String url_request = url + scrNumY + "_" + scrNumX + ".jpg";
+        KLog.e(url_request);
+        Picasso.with(this).load(url_request).into(imageView);
+    }
 }

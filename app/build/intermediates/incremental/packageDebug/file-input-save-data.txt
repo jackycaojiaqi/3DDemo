@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jan 18 14:17:40 CST 2017
+#Wed Jan 18 17:10:32 CST 2017
 5.base=D\:\\Car3D\\app\\build\\intermediates\\res\\resources-debug.ap_
 42.base=D\:\\Car3D\\app\\build\\intermediates\\res\\resources-debug.ap_
 32.set=ANDROID_RESOURCE
